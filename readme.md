@@ -1,4 +1,4 @@
-# SilverStripe Guru Widigets
+# SilverStripe Guru Widgets
 
 Module providing page extension and additional modules
 
