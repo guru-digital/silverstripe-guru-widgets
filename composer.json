@@ -10,6 +10,7 @@
     "require": {
         "silverstripe/cms": "^3.1",
         "composer/installers": "*",
+        "zirak/widget-pages-extension": "dev-master",
         "gdmedia/silverstripe-widget-downloads": "dev-master",
         "gdmedia/silverstripe-widget-sidebar-nav": "dev-master",
         "gdmedia/silverstripe-widget-pagelist": "dev-master"
