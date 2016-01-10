@@ -1,0 +1,26 @@
+{
+    "name": "gmdedia/silverstripe-guru-widgets",
+    "description": "Simple meta package for Guru Widgets.",
+    "keywords": [
+        "silverstripe",
+        "Widgets"
+    ],
+    "license": "BSD-3-Clause",
+    "type": "silverstripe-module",
+    "require": {
+        "silverstripe/cms": "^3.1",
+        "composer/installers": "*",
+        "gdmedia/silverstripe-widget-downloads": "dev-master",
+        "gdmedia/silverstripe-widget-sidebar-nav": "dev-master",
+        "gdmedia/silverstripe-widget-pagelist": "dev-master"
+    },
+    "repositories": {
+        "widgetpages": {
+            "type": "vcs",
+            "url": "https://github.com/guru-digital/silverstripe-guru-widgets.git"
+        }
+    },
+    "extra": {
+        "installer-name": "silverstripe-guru-widgets"
+    }
+}
