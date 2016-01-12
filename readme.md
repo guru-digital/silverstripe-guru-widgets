@@ -22,6 +22,7 @@ Once the files are installed, you must run dev/build and flush
 3-clause BSD license   
 See [License](license.md)
  
+## Bugtracker
 Bugs are tracked in the issues section of this repository. Before submitting an issue please read over existing issues to ensure yours is unique.
 
 If the issue does look like a new bug:
