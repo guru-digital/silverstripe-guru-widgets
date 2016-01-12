@@ -1,6 +1,6 @@
 <?php
 
-class GruruWidgetPage_Extension extends DataExtension
+class GruruWidgetPage extends DataExtension
 {
     static $db = array(
         'HeaderBar'     => 'WidgetArea',
