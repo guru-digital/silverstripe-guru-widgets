@@ -2,7 +2,7 @@
 
 class GuruWidgetPage extends DataExtension
 {
-    static $db = array(
+    private static $has_one = array(
         'HeaderBar'     => 'WidgetArea',
         'LeftSideBar'   => 'WidgetArea',
         'RightSideBar'  => 'WidgetArea',
